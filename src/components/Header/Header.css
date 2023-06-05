@@ -1,0 +1,13 @@
+.C_Header{
+    background-color: #000000;
+    height: 5.9rem;
+    
+}
+
+.header{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: space-between;
+    padding:1.6rem 2.5rem 0 2.5rem;
+}

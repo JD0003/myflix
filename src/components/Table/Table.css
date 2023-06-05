@@ -1,0 +1,18 @@
+table{
+    margin-top: 2rem;
+    width: 100%;
+    border: #2A7AE4 5px solid;
+    text-align: left;
+}
+
+th, td{
+    border: #000000E5 3px solid;
+    padding: 5px;
+}
+
+.b_t{
+    background-color: transparent;
+    border: none;
+    width:max-content ;
+    height: max-content;
+}

@@ -1,0 +1,18 @@
+.Carrusel{
+    
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.9);
+    padding:2rem 2.5rem 0.5rem 2.5rem ;
+    box-sizing: border-box;
+}
+
+.C_T{
+    width: max-content;
+}
+
+.Titles_Carrusel{
+    font-size: 35px;
+    font-weight: 400;
+    padding: 0.6rem;
+    color: white;
+}
